@@ -15,3 +15,8 @@
 ### Exploratory Data Analysis (EDA)
 
 ## Modeling Over
+
+
+# Potential Fixes
+
+-
