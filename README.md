@@ -98,8 +98,8 @@ The best KNN pipeline found by cross-validation was:
 - `KNeighborsClassifier(n_neighbors=280, weights="distance", metric="minkowski", p=1)`
 
 **Best Cross Validation accuracy**: **0.5801**  
-**Test accuracy**: **0.5799759799** (≈ **0.58**)
-
+**Validation accuracy**: **0.5799759799** (≈ **0.58**)
+**Test accuracy**: **0.5715829812321902**
 ### 5.2 Logistic Regression results
 
 ### 5.3 FeedForward Neural Network results
