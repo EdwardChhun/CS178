@@ -6,17 +6,19 @@
 - Kaveh Zare
 - Edward Chunn
 - Seth Rogan
-- Kang
+- Kang Ji
 
-## Introduction
+## 1. Overview
+In this project, we investigated the `Diabetes 130-US Hospitals for Years 1999
 
-## Data Overview
-### Data Preprocessing
-### Exploratory Data Analysis (EDA)
+## 2. Data Description
 
-## Modeling Over
+## 3. Classifiers
 
+## 4. Experimental Setup
 
-# Potential Fixes
+## 5. Experimental Results
 
--
+## 6. Insights
+
+## 7. Contributions
